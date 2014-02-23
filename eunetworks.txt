@@ -1,0 +1,51 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+52.008328	8.565006	euNetworks	Bielefeld, Schweriner Str., 1-3	blue.png	24,24	0,-24
+52.02226	8.533753	euNetworks	Jahnplatz / Niederwall, 2	blue.png	24,24	0,-24
+50.739674	7.152461	euNetworks	Bonn, Holtorfer Straße, 35	blue.png	24,24	0,-24
+50.828968	6.457661	euNetworks	Düren, Nordstrasse, 102	blue.png	24,24	0,-24
+50.794773	6.110176	euNetworks	Aachen, Grüner Weg, 100	blue.png	24,24	0,-24
+50.915426	6.941918	euNetworks	Cologne, Bernhard-Feilchenfeld-Strasse, 11, 	blue.png	24,24	0,-24
+50.911787	6.960887	euNetworks	Cologne, Marktstrasse, 8,	blue.png	24,24	0,-24
+50.917131	6.96108	euNetworks	Cologne, Bonner Strasse, 77,	blue.png	24,24	0,-24
+50.92852	6.962324	euNetworks	Cologne, Mechtildisstrasse, 16,	blue.png	24,24	0,-24
+50.924381	6.992129	euNetworks	Cologne, Am Grauen Stein, 1,	blue.png	24,24	0,-24
+50.93397	6.959814	euNetworks	Cologne, An der Malzmühle, 4-8,	blue.png	24,24	0,-24
+50.934538	6.963066	euNetworks	Cologne, Am Leystapel,	blue.png	24,24	0,-24
+50.930535	6.951081	euNetworks	Cologne, Rothgerberbach, 1	blue.png	24,24	0,-24
+50.935201	6.949774	euNetworks	Cologne, Josef-Haubrich-Hof, 2	blue.png	24,24	0,-24
+50.93896	6.948248	euNetworks	Cologne, Breitestrasse, 92-98	blue.png	24,24	0,-24
+50.9356		6.93898	euNetworks	Cologne, Habsburgerring, 9-13	blue.png	24,24	0,-24
+50.940393	6.95502	euNetworks	Cologne, An der Rechtschule, 2	blue.png	24,24	0,-24
+50.940099	6.945204	euNetworks	Cologne, Helenenstrasse, 14	blue.png	24,24	0,-24
+50.942583	6.940718	euNetworks	Cologne, Kaiser-Wilhelm-Ring, 2-4	blue.png	24,24	0,-24
+50.943608	6.941851	euNetworks	Cologne, Kaiser-Wilhelm-Ring, 24	blue.png	24,24	0,-24
+50.943287	6.93355	euNetworks	Cologne, Venloer Strasse, 49-53	blue.png	24,24	0,-24
+50.948154	6.92031	euNetworks	Cologne, Venloer Strasse, 295	blue.png	24,24	0,-24
+50.957494	6.899971	euNetworks	Cologne, Venloer Strasse, 601-603	blue.png	24,24	0,-24
+50.945287	6.941255	euNetworks	Cologne, Kaiser-Wilhelm-Ring, 31	blue.png	24,24	0,-24
+50.947694	6.944018	euNetworks	Cologne, Im Mediapark, 1	blue.png	24,24	0,-24
+50.94862	6.944834	euNetworks	Köln, Im Mediapark, 5c	blue.png	24,24	0,-24
+50.94878	6.944923	euNetworks	Köln, Im Mediapark, 5	blue.png	24,24	0,-24
+50.949397	6.957778	euNetworks	Cologne, Thuermchenswall, 3	blue.png	24,24	0,-24
+50.946393	6.958872	euNetworks	Cologne, Domstrasse, 43-45	blue.png	24,24	0,-24
+50.943658	6.961721	euNetworks	Cologne, Am Alten Ufer, 33	blue.png	24,24	0,-24
+50.936553	6.919667	euNetworks	Cologne, Aachener Strasse, 243 - 247	blue.png	24,24	0,-24
+50.936553	6.919667	euNetworks	Cologne, Aachener Strasse, 239	blue.png	24,24	0,-24
+50.936932	6.90441	euNetworks	Cologne, Aachener Strasse, 445-449	blue.png	24,24	0,-24
+50.954277	6.949986	euNetworks	Cologne, Gladbacher Wall, 2	blue.png	24,24	0,-24
+50.946687	6.891806	euNetworks	Cologne, Widdersdorfer Strasse, 252	blue.png	24,24	0,-24
+50.944639	6.889561	euNetworks	Cologne, Eupener Strasse, 137	blue.png	24,24	0,-24
+50.954223	6.965963	euNetworks	Cologne, Riehler Platz, 2	blue.png	24,24	0,-24
+50.955913	6.930653	euNetworks	Cologne, Wöhlerstrasse, 14	blue.png	24,24	0,-24
+50.986369	6.885828	euNetworks	Cologne, Richard-Byrd-Strasse, 4-6	blue.png	24,24	0,-24
+50.93729	6.973495	euNetworks	Cologne, Theodor-Babilon-Strasse, 1-3	blue.png	24,24	0,-24
+50.939947	6.970126	euNetworks	Cologne, Hermann-Pünder-Str, 1	blue.png	24,24	0,-24
+50.944841	6.971422	euNetworks	Cologne, Picasso-Platz, 1	blue.png	24,24	0,-24
+50.946139	6.983891	euNetworks	Cologne, Deutz-Mühlheimer Strasse, 111	blue.png	24,24	0,-24
+50.942523	6.980179	euNetworks	Cologne, Deutz-Mühlheimer Strasse, 30	blue.png	24,24	0,-24
+50.941644	6.981348	euNetworks	Cologne, Von-Gablenz-Str., 2 - 6	blue.png	24,24	0,-24
+50.938973	6.982538	euNetworks	Cologne, Willy-Brandt-Platz, 3	blue.png	24,24	0,-24
+50.936438	6.988522	euNetworks	Cologne, Deutz-Kalker Strasse, 118	blue.png	24,24	0,-24
+51.520554	7.488382	euNetworks	Dortmund, Im Spähenfelde, 51	blue.png	24,24	0,-24
+51.452302	7.008938	euNetworks	Essen, Hachestraße, 2-8	blue.png	24,24	0,-24
+
