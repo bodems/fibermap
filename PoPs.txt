@@ -18,6 +18,8 @@ List of carriers
 - Liberty Global
 - Atrato
 - Telefonica Deutschland
+- QSC
+- British Telecom
 
 List of local carriers
 =======================
@@ -29,6 +31,9 @@ List of local carriers
 - VSE NET IP
 - DNS:NET
 - HL komm
+- EWE TEL
+- wilhelm.tel
+
 
 List of IXPs
 ======================
