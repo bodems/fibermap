@@ -1,4 +1,4 @@
-Lists of carriers
+List of carriers
 ==================
 - euNetworks
 - Colt
@@ -6,5 +6,28 @@ Lists of carriers
 - Deutsche Telekom
 - Versatel
 - Cogent
+- TeliaSonera
+- Interoute
+- KPN
+- Kaia Global Networks
+- gtt
+- Vodafone
+- Hurricane Electric
+- PCH
+- NTT
+- Liberty Global
+- Atrato
+- Telefonica Deutschland
+
+List of local carriers
+=======================
+- Hofnetz
+- BiTel
+- Netcologne
+- Inexio
+- M-Net
+- VSE NET IP
+- DNS:NET
+- HL komm
 
 to continued...
