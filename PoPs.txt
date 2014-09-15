@@ -30,4 +30,27 @@ List of local carriers
 - DNS:NET
 - HL komm
 
+List of IXPs
+======================
+- DE-CIX
+ - Frankfurt
+ - Berlin
+ - Hamburg
+ - Munich
+ - New York
+- ECIX
+ - Dusseldorf
+ - Berlin
+ - Frankfurt
+ - Amsterdam
+- BCIX
+ - Berlin
+- LU-CIX
+ - Luxembourg
+- AMS-IX
+ - Amsterdam
+- UAE-IX
+ - Dubai
+
+
 to continued...
