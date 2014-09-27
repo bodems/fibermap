@@ -1,38 +1,37 @@
 List of carriers
 ==================
-- euNetworks
-- Colt
-- Level3
-- Deutsche Telekom
-- Versatel
-- Cogent
-- TeliaSonera
-- Interoute
-- KPN
-- Kaia Global Networks
-- gtt
-- Vodafone
-- Hurricane Electric
-- PCH
+- euNetworks (AS13237)
+- Colt (AS8220)
+- Level3 (AS3356)
+- Deutsche Telekom (AS3320)
+- Versatel (AS8881)
+- Cogent (AS174)
+- TeliaSonera (AS1299)
+- Interoute (AS8928)
+- KPN (AS12469)
+- Kaia Global Networks (AS251)
+- gtt/Tinet (AS3257)
+- Vodafone (AS3209)
+- Hurricane Electric (AS6939)
 - NTT
-- Liberty Global
-- Atrato
-- Telefonica Deutschland
-- QSC
-- British Telecom
+- Liberty Global (AS6830)
+- Atrato/Hibernia Networks (AS5580)
+- Telefonica Deutschland (AS39706)
+- QSC (AS20676)
+- British Telecom (AS2856)
 
 List of local carriers
 =======================
-- Hofnetz
-- BiTel
-- Netcologne
-- Inexio
-- M-Net
-- VSE NET IP
-- DNS:NET
-- HL komm
-- EWE TEL
-- wilhelm.tel
+- Hofnetz (AS50324)
+- BiTel (AS43155)
+- Netcologne (AS8422)
+- Inexio (AS42652)
+- M-Net (AS8767)
+- VSE NET IP (AS8937)
+- DNS:NET (AS15366)
+- HL komm (AS16097)
+- EWE TEL (AS9145)
+- wilhelm.tel (AS15943)
 
 
 List of IXPs
