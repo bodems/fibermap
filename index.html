@@ -10,6 +10,13 @@
                       projection: map.displayProjection
                     });
     map.addLayer(pois);
+
+    var hofnetz = new OpenLayers.Layer.Text( "Hofnetz",
+			{ location:"./hofnetz.txt",
+				projection: map.displayProjection
+			});
+	map.addLayer(hofnetz);
+
         var eunetworks = new OpenLayers.Layer.Vector("KML", {
             strategies: [new OpenLayers.Strategy.Fixed()],
             protocol: new OpenLayers.Protocol.HTTP({
@@ -21,7 +28,7 @@
                 })
             })
         })
-    map.addLayer(eunetworks);
+    //map.addLayer(eunetworks);
  // create layer switcher widget in top right corner of map.
     var layer_switcher= new OpenLayers.Control.LayerSwitcher({});
     map.addControl(layer_switcher);

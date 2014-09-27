@@ -1,0 +1,59 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+52.500224	13.418665	Hofnetz	Adalbertstr. 5â€‰â€“â€‰8, Berlin	blue.png	24,24	0,-24
+52.593534	13.439315	Hofnetz	Pankstr. 8â€‰â€“â€‰10, Berlin	blue.png	24,24	0,-24
+52.494390	13.398730	Hofnetz	BlÃ¼cherstr. 22, Berlin	blue.png	24,24	0,-24
+52.540363	13.516137	Hofnetz	Plauener Str. 153, Berlin	blue.png	24,24	0,-24
+52.530350	13.614850	Hofnetz	DÃ¶belner Str. 1â€‰â€“â€‰5, 7, Berlin	blue.png	24,24	0,-24
+52.386554	13.388959	Hofnetz	Prinzessinnenstr. 19â€‰â€“â€‰20, Berlin	blue.png	24,24	0,-24
+52.483690	13.355210	Hofnetz	Feurigstr. 54â€‰/â€‰54â€‰a, Berlin	blue.png	24,24	0,-24
+52.495760	13.431740	Hofnetz	Reichenberger Str. 124, Berlin	blue.png	24,24	0,-24
+52.520210	13.328650	Hofnetz	Franklinstr. 9â€‰â€“â€‰15, Berlin	blue.png	24,24	0,-24
+52.525655	13.324066	Hofnetz	Reuchlinstr. 10â€‰â€“â€‰11, Berlin	blue.png	24,24	0,-24
+52.518910	13.325780	Hofnetz	Franklinstr. 27, Berlin	blue.png	24,24	0,-24
+52.499354	13.449111	Hofnetz	Schlesische Str. 27, Berlin	blue.png	24,24	0,-24
+52.472125	13.365762	Hofnetz	Geneststr. 5, Berlin	blue.png	24,24	0,-24
+52.557760	13.373140	Hofnetz	Schwedenstr. 9, Berlin	blue.png	24,24	0,-24
+52.490750	13.402880	Hofnetz	Gneisenaustr. 66â€‰/â€‰67, Berlin	blue.png	24,24	0,-24
+52.504343	13.420422	Hofnetz	Waldemarstr. 33â€‰a, Berlin	blue.png	24,24	0,-24
+52.542160	13.390310	Hofnetz	Gustav-Meyer-Allee 25â€‰/ Voltastr. 5, Berlin	blue.png	24,24	0,-24
+52.503770	13.419610	Hofnetz	Waldemarstr. 37â€‰a, Berlin	blue.png	24,24	0,-24
+52.521519	13.325300	Hofnetz	Helmholtzstr. 2â€‰â€“â€‰9, Berlin	blue.png	24,24	0,-24
+52.465880	13.510100	Hofnetz	Wattstr. 10â€‰â€“â€‰13, Berlin	blue.png	24,24	0,-24
+52.492837	13.561490	Hofnetz	KÃ¶penicker Str. 145, Berlin	blue.png	24,24	0,-24
+52.430510	13.381740	Hofnetz	Wilhelm-von-Siemens-Str. 23, Berlin	blue.png	24,24	0,-24
+52.506236	13.430517	Hofnetz	KÃ¶penicker Str. 154â€‰â€“â€‰157, Berlin	blue.png	24,24	0,-24
+52.558840	13.553510	Hofnetz	Wolfener Str. 32â€‰â€“â€‰34, Berlin	blue.png	24,24	0,-24
+52.503993	13.407863	Hofnetz	Lobeckstr. 36â€‰â€“â€‰40, Berlin	blue.png	24,24	0,-24
+52.560480	13.555260	Hofnetz	Wolfener Str. 36, Berlin	blue.png	24,24	0,-24
+52.607920	13.324820	Hofnetz	Oranienstr. 6, Berlin	blue.png	24,24	0,-24
+52.546412	13.587712	Hofnetz	Zossener Str. 55â€‰â€“â€‰58, Berlin	blue.png	24,24	0,-24
+
+Adalbertstr. 5â€‰â€“â€‰8, Berlin
+Pankstr. 8â€‰â€“â€‰10, Berlin
+BlÃ¼cherstr. 22, Berlin
+Plauener Str. 153, Berlin
+DÃ¶belner Str. 1â€‰â€“â€‰5, 7, Berlin
+Prinzessinnenstr. 19â€‰â€“â€‰20, Berlin
+Feurigstr. 54â€‰/â€‰54â€‰a, Berlin
+Reichenberger Str. 124, Berlin
+Franklinstr. 9â€‰â€“â€‰15, Berlin
+Reuchlinstr. 10â€‰â€“â€‰11, Berlin
+Franklinstr. 27, Berlin
+Schlesische Str. 27, Berlin
+Geneststr. 5, Berlin
+Schwedenstr. 9, Berlin
+Gneisenaustr. 66â€‰/â€‰67, Berlin
+Waldemarstr. 33â€‰a, Berlin
+Gustav-Meyer-Allee 25â€‰/ Voltastr. 5, Berlin
+Waldemarstr. 37â€‰a, Berlin
+Helmholtzstr. 2â€‰â€“â€‰9, Berlin
+Wattstr. 10â€‰â€“â€‰13, Berlin
+KÃ¶penicker Str. 145, Berlin
+Wilhelm-von-Siemens-Str. 23, Berlin
+KÃ¶penicker Str. 154â€‰â€“â€‰157, Berlin
+Wolfener Str. 32â€‰â€“â€‰34, Berlin
+Lobeckstr. 36â€‰â€“â€‰40, Berlin
+Wolfener Str. 36, Berlin
+Oranienstr. 6, Berlin
+Zossener Str. 55â€‰â€“â€‰58, Berlin
+
